@@ -15,4 +15,4 @@ Working / Steps to install & work
 
 <hr>
 Flowchart:
-![image](https://github.com/user-attachments/assets/261ab8c3-c11a-47ad-b021-1a44c4235472)
+<img src="https://github.com/user-attachments/assets/261ab8c3-c11a-47ad-b021-1a44c4235472" alt="flowchart"/>
